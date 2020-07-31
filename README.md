@@ -2,16 +2,23 @@
 
 ### I'm a linguist and sinologist
 
-
-My website can found on [thomasvanhoey.com](thomasvanhoey.com)
-
+I just finished my PhD in Linguistics at the Graduate Institute of Linguistics of National Taiwan University.
 
 #### Interests
 - ideophones
+- iconicity
 - Chinese
 - historical linguistics
 - Cognitive Linguistics
 - lexical semantics
+
+## Connect with me via my website!
+
+My website can found on [thomasvanhoey.com](thomasvanhoey.com).
+
+
+
+
 
 
 
