@@ -19,7 +19,10 @@ My website can found on [thomasvanhoey.com](https://thomasvanhoey.com).
 
 ### Programming languages and tools
 
-[<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.png" />][webdevplaylist]
+[<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.png" />]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+
 
 
 
