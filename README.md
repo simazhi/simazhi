@@ -4,7 +4,7 @@
 
 I just finished my PhD in Linguistics at the Graduate Institute of Linguistics of National Taiwan University.
 
-#### Interests
+## Interests
 - ideophones
 - iconicity
 - Chinese
@@ -14,9 +14,10 @@ I just finished my PhD in Linguistics at the Graduate Institute of Linguistics o
 
 ## Connect with me via my website!
 
-My website can found on [thomasvanhoey.com](thomasvanhoey.com).
+My website can found on [thomasvanhoey.com](https://thomasvanhoey.com).
 
 
+### Programming languages and tools
 
 
 
