@@ -3,6 +3,7 @@
 ### I'm a linguist and sinologist
 
 I just finished my PhD in Linguistics at the Graduate Institute of Linguistics of National Taiwan University.
+Currently looking for exciting postdoc opportunities.
 
 ## Interests
 - ideophones
@@ -24,7 +25,12 @@ My website can found on [thomasvanhoey.com](https://thomasvanhoey.com).
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
+<br />
+<br />
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **simazhi/simazhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
