@@ -30,6 +30,11 @@ My website can found on [thomasvanhoey.com](https://thomasvanhoey.com).
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Defense against the Dark Art](https://thomasvanhoey.com/post/defense-dark-art/)
+- [Hashtag Dissertating](https://thomasvanhoey.com/post/hashtag-dissertating/)
+- [The Abralin lectures](https://thomasvanhoey.com/post/the-abralin-lectures/)
+- [Data packages for current and future me](https://thomasvanhoey.com/post/data-packages/)
+- [Rbootcamp 2019](https://thomasvanhoey.com/post/rbootcamp-2019/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
