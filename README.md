@@ -30,11 +30,11 @@ My website can found on [thomasvanhoey.com](https://thomasvanhoey.com).
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Changing photo metadata with R](https://thomasvanhoey.com/post/changing-photo-metadata-with-r/)
 - [Turning glosses into a mini corpus](https://thomasvanhoey.com/post/turning-glosses-into-a-mini-corpus/)
 - [Defense against the Dark Art](https://thomasvanhoey.com/post/defense-dark-art/)
 - [Hashtag Dissertating](https://thomasvanhoey.com/post/hashtag-dissertating/)
 - [The Abralin lectures](https://thomasvanhoey.com/post/the-abralin-lectures/)
-- [Data packages for current and future me](https://thomasvanhoey.com/post/data-packages/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
