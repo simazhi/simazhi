@@ -30,11 +30,11 @@ My website can found on [thomasvanhoey.com](https://thomasvanhoey.com).
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Summertime sadness. See you Taiwan!](https://thomasvanhoey.com/post/summertime-sadness-see-you-taiwan/)
 - [Changing photo metadata with R](https://thomasvanhoey.com/post/changing-photo-metadata-with-r/)
 - [Drawing RRG trees with forest](https://thomasvanhoey.com/post/drawing-rrg-trees-with-forest/)
 - [Turning glosses into a mini corpus](https://thomasvanhoey.com/post/turning-glosses-into-a-mini-corpus/)
 - [Defense against the Dark Art](https://thomasvanhoey.com/post/defense-dark-art/)
-- [Hashtag Dissertating](https://thomasvanhoey.com/post/hashtag-dissertating/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
