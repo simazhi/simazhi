@@ -30,11 +30,11 @@ My website can found on [thomasvanhoey.com](https://thomasvanhoey.com).
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learnability of ideophones](https://thomasvanhoey.com/project/learnability-of-ideophones/)
 - [Installing OpenPose on Mac (October 2020 version)](https://thomasvanhoey.com/post/installing-openpose-on-mac-october-2020-version/)
 - [How I organize my notes](https://thomasvanhoey.com/post/how-i-organize-my-notes/)
 - [Summertime sadness. See you Taiwan!](https://thomasvanhoey.com/post/summertime-sadness-see-you-taiwan/)
 - [Changing photo metadata with R](https://thomasvanhoey.com/post/changing-photo-metadata-with-r/)
-- [Drawing RRG trees with forest](https://thomasvanhoey.com/post/drawing-rrg-trees-with-forest/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
