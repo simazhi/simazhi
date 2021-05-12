@@ -30,11 +30,11 @@ My website can found on [thomasvanhoey.com](https://thomasvanhoey.com).
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up a clean project: the best practice I use](https://thomasvanhoey.com/post/2021-05-12-setting-up-a-clean-project-the-best-practice-i-use/)
 - [Et in Arcadia ego](https://thomasvanhoey.com/post/2021-02-26-et-in-arcadia-ego/)
 - [CHIDEOD, the Chinese Ideophone Database](https://thomasvanhoey.com/post/2020-11-19-chideod-the-chinese-ideophone-database/)
 - [Theses and dissertations on my site](https://thomasvanhoey.com/post/2020-11-14-theses-and-dissertations-on-my-site/)
 - [Learnability of ideophones](https://thomasvanhoey.com/project/learnability-of-ideophones/)
-- [Installing OpenPose on Mac (October 2020 version)](https://thomasvanhoey.com/post/installing-openpose-on-mac-october-2020-version/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
