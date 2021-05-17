@@ -2,8 +2,7 @@
 
 ### I'm a linguist and sinologist
 
-I just finished my PhD in Linguistics at the Graduate Institute of Linguistics of National Taiwan University.
-Currently looking for exciting postdoc opportunities.
+Currently a postdoctoral fellow at the University of Hong Kong, in the [Language Development Lab](https://linguistics.hku.hk/ldlhku/).
 
 ## Interests
 - ideophones
