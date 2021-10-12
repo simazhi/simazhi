@@ -29,11 +29,11 @@ My website can found on [thomasvanhoey.com](https://thomasvanhoey.com).
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tidymodels, interactions and anova - a short tutorial](https://thomasvanhoey.com/post/2021-10-12-tidymodels-interactions/)
 - [43 days of summer](https://thomasvanhoey.com/post/2021-09-24-43-days-of-summer/)
 - [Articulatory features of phonemes pattern to iconic meanings: Evidence from cross-linguistic ideophones](https://thomasvanhoey.com/publication/2021_cogling_articulatory/)
 - [The blending of bending: How we engage with the world of Avatar: The Last Airbender through memes](https://thomasvanhoey.com/publication/2021_metaphor_blending/)
 - [Grounding and arting in HK](https://thomasvanhoey.com/post/2021-07-30-grounding-and-arting-in-hk/)
-- [Psyched about PsychoPy](https://thomasvanhoey.com/post/2021-05-20-psyched-about-psychopy/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
