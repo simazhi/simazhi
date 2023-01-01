@@ -2,9 +2,11 @@
 
 ### I'm a linguist and sinologist
 
-Currently a postdoctoral fellow at the University of Hong Kong, in the [Language Development Lab](https://linguistics.hku.hk/ldlhku/).
+Currently a postdoctoral assistant at the KU Leuven, in the [QLVL research unit](https://www.arts.kuleuven.be/ling/qlvl)).
 
 ## Interests
+- salience
+- variation
 - ideophones
 - iconicity
 - Chinese
